@@ -1,7 +1,7 @@
 {
   "available": {
-    "27.0": false,
-    "28.0": false
+    "27.0": true,
+    "28.0": true
   },
   "error": false
 }
